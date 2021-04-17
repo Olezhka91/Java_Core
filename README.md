@@ -1,7 +1,7 @@
 # Java_Core
 Java core, 
 Створити класи Су-27, Керування Літаком.
-В класі [Керування] (https://github.com/Olezhka91/Java_Core/blob/master/Lesson_7/src/ua/lviv/lgs/AircraftControl.java) літаком створити методи:
+В класі [Керування] (https://github.com/Olezhka91/Java_Core/blob/master/Lesson_7/src/ua/lviv/lgs/AircraftControl.java "Керування") літаком створити методи:
 
 — РухВверх
 
