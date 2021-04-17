@@ -18,7 +18,7 @@ Java core,
 
 
 
-Створити абстрактний клас [Літак] (https://github.com/Olezhka91/Java_Core/blob/master/Lesson_7/src/ua/lviv/lgs/Aircraft.java) який матиме методи:
+Створити абстрактний клас [Літак (https://github.com/Olezhka91/Java_Core/blob/master/Lesson_7/src/ua/lviv/lgs/Aircraft.java)] який матиме методи:
 
 — ЗапускДвигунів , який буде виводити на екран скільки часу залишилось до готовності влетіти, де
 
@@ -79,4 +79,5 @@ Java core,
 Е) Включаємо турбоприскорення і тікаємо
 
 Є) Проводимо посадку літака
+
 
